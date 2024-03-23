@@ -67742,8 +67742,8 @@ A.Yn.prototype={
 $0(){},
 $S:0}
 A.wH.prototype={
-ak(){var s="assets/images/bizappodium.png",r=u.A,q="https://rahid780.github.io/",p=t.N,o=t.z
-return new A.Nc(A.a([A.aA(["name","Bizappodium","description","Excited to introduce BizAppodium, my latest creation in the world of e-commerce! Built with Flutter and Firebase, BizAppodium offers a seamless shopping experience, powered by efficient Provider state management. Explore a user-friendly interface and real-time updates for a truly dynamic online marketplace.","image",s,"github",r,"website",q],p,o),A.aA(["name","Portfolio","description",u.J,"image",s,"github",r,"website",q],p,o)],t.gG),B.k)}}
+ak(){var s=u.A,r="https://rahid780.github.io/",q=t.N,p=t.z
+return new A.Nc(A.a([A.aA(["name","Bizappodium","description","Excited to introduce BizAppodium, my latest creation in the world of e-commerce! Built with Flutter and Firebase, BizAppodium offers a seamless shopping experience, powered by efficient Provider state management. Explore a user-friendly interface and real-time updates for a truly dynamic online marketplace.","image","assets/images/bizappodium.png","github",s,"website",r],q,p),A.aA(["name","Portfolio","description",u.J,"image","assets/images/portfolio.png","github",s,"website",r],q,p)],t.gG),B.k)}}
 A.Nc.prototype={
 M(a){var s=null
 return A.ii(new A.e0(B.l0,A.w_(A.d_(A.a([A.hQ("Portfolio".toUpperCase(),B.j2,s),B.a7,B.J8,B.f6,A.acA(A.adq(A.ahm(new A.a9T(this),2),s,15,!0,!0),1)],t.p),B.aF,B.ag),s,750),s),s,s)}}
