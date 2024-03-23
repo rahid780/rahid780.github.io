@@ -67723,8 +67723,8 @@ if(r!=null)r.J(s.ge2())
 s.aR$=null
 s.aN()}}
 A.u6.prototype={
-ak(){var s="assets/images/bizappodium.png",r=u.A,q="https://rahid780.github.io/",p=t.N,o=t.z
-return new A.JV(A.a([A.aA(["name","Bizappodium","description","Experience BizAppodium: A dynamic e-commerce platform crafted with Flutter and Firebase, offering seamless shopping experiences. With robust Provider state management, enjoy real-time updates and intuitive interfaces for effortless navigation.","image",s,"github",r,"website",q],p,o),A.aA(["name","Portfolio","description",u.J,"image",s,"github",r,"website",q],p,o)],t.gG),B.k)}}
+ak(){var s=u.A,r="https://rahid780.github.io/",q=t.N,p=t.z
+return new A.JV(A.a([A.aA(["name","Bizappodium","description","Experience BizAppodium: A dynamic e-commerce platform crafted with Flutter and Firebase, offering seamless shopping experiences. With robust Provider state management, enjoy real-time updates and intuitive interfaces for effortless navigation.","image","assets/images/bizappodium.png","github",s,"website",r],q,p),A.aA(["name","Portfolio","description",u.J,"image","assets/images/portfolio.png","github",s,"website",r],q,p)],t.gG),B.k)}}
 A.JV.prototype={
 M(a){var s=null
 return A.ii(new A.e0(B.l0,A.w_(A.d_(A.a([A.hQ("Portfolio".toUpperCase(),B.j2,s),B.a7,B.KL,A.acA(A.adq(A.ahm(new A.a7R(this),2),s,15,!0,!0),1)],t.p),B.aF,B.ag),s,450),s),s,s)}}
@@ -67753,7 +67753,7 @@ return(b&1)===0?A.d_(A.a([new A.GV(s,null),B.a7],r),B.n,B.v):A.d_(A.a([new A.GW(
 $S:141}
 A.GV.prototype={
 M(a){var s=null,r=this.c,q=t.p
-return A.cs(A.a([A.c5(s,A.acb(B.fA,A.CU(r.k(0,"image"),B.bo,s,s)),s,s,B.yj,300,s,s,300),A.c5(s,A.d_(A.a([A.hQ(r.k(0,"name"),B.dJ,s),B.av,A.hQ(r.k(0,"description"),B.j5,B.bl),B.av,B.iA,B.a7,A.cs(A.a([A.cs(A.a([B.j7,A.dV(s,s,B.ho,s,new A.a4d(),s,s,s,s)],q),B.n,B.v,B.t),A.cs(A.a([B.j8,A.dV(s,s,B.hp,s,new A.a4e(),s,s,s,s)],q),B.n,B.v,B.t)],q),B.n,B.ck,B.t)],q),B.n,B.ag),B.i,s,s,300,s,B.hh,400)],q),B.n,B.v,B.t)}}
+return A.cs(A.a([A.c5(s,A.acb(B.fA,A.CU(r.k(0,"image"),B.bo,s,s)),s,s,B.yj,300,s,s,350),A.c5(s,A.d_(A.a([A.hQ(r.k(0,"name"),B.dJ,s),B.av,A.hQ(r.k(0,"description"),B.j5,B.bl),B.av,B.iA,B.a7,A.cs(A.a([A.cs(A.a([B.j7,A.dV(s,s,B.ho,s,new A.a4d(),s,s,s,s)],q),B.n,B.v,B.t),A.cs(A.a([B.j8,A.dV(s,s,B.hp,s,new A.a4e(),s,s,s,s)],q),B.n,B.v,B.t)],q),B.n,B.ck,B.t)],q),B.n,B.ag),B.i,s,s,300,s,B.hh,350)],q),B.n,B.v,B.t)}}
 A.a4d.prototype={
 $0(){},
 $S:0}
@@ -67762,7 +67762,7 @@ $0(){},
 $S:0}
 A.GW.prototype={
 M(a){var s=null,r=this.c,q=t.p
-return A.cs(A.a([A.c5(s,A.d_(A.a([A.hQ(r.k(0,"name"),B.dJ,s),B.av,A.hQ(r.k(0,"description"),B.j5,B.bl),B.av,B.iA,B.a7,A.cs(A.a([A.cs(A.a([B.j7,A.dV(s,s,B.ho,s,new A.a4f(),s,s,s,s)],q),B.n,B.v,B.t),A.cs(A.a([B.j8,A.dV(s,s,B.hp,s,new A.a4g(),s,s,s,s)],q),B.n,B.v,B.t)],q),B.n,B.ck,B.t)],q),B.n,B.ag),B.i,s,s,300,s,B.hh,400),A.c5(s,A.acb(B.fA,A.CU(r.k(0,"image"),B.bo,s,s)),s,s,B.yi,300,s,s,300)],q),B.n,B.v,B.t)}}
+return A.cs(A.a([A.c5(s,A.d_(A.a([A.hQ(r.k(0,"name"),B.dJ,s),B.av,A.hQ(r.k(0,"description"),B.j5,B.bl),B.av,B.iA,B.a7,A.cs(A.a([A.cs(A.a([B.j7,A.dV(s,s,B.ho,s,new A.a4f(),s,s,s,s)],q),B.n,B.v,B.t),A.cs(A.a([B.j8,A.dV(s,s,B.hp,s,new A.a4g(),s,s,s,s)],q),B.n,B.v,B.t)],q),B.n,B.ck,B.t)],q),B.n,B.ag),B.i,s,s,300,s,B.hh,350),A.c5(s,A.acb(B.fA,A.CU(r.k(0,"image"),B.bo,s,s)),s,s,B.yi,300,s,s,350)],q),B.n,B.v,B.t)}}
 A.a4f.prototype={
 $0(){},
 $S:0}
